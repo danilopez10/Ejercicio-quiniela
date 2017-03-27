@@ -16,7 +16,7 @@ public class Ventana2 extends javax.swing.JFrame {
     private VentanaPrincipal ventana2;
     /**
      * Constructor por parametros de la ventana
-     * @param ventana2
+     * @param ventana2 
      */
     public Ventana2(VentanaPrincipal ventana2) {
         initComponents();
