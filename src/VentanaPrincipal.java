@@ -11,7 +11,7 @@ import javax.swing.JList;
  */
 
 /**
- * form que representa a una ventana
+ * form que representa a una ventana 
  * @author Daniel López Avilés
  */
 public class VentanaPrincipal extends javax.swing.JFrame {
